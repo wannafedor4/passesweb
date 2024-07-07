@@ -19,6 +19,6 @@ Any modern web browser with JavaScript enabled
 
 [angularlink]: https://angular.dev/
 [firebaselink]: https://firebase.google.com/
-[githubllink]: https://github.com/wannafedor4/passesweb/
+[githublink]: https://github.com/wannafedor4/passesweb/
 [mitlicenselink]: https://opensource.org/licenses/MIT
 [passeslink]: https://passes.wannafedor4.com/
